@@ -1,0 +1,15 @@
+{
+    "accountType": {
+        "accountTypeName": "conta",
+        "accountTypeValues": "PAYMENT_ACCOUNT"
+    },
+    "accountPurpose": "conta principal",
+    "accountBalance": [
+        {
+            "accountBalance": 15.0,
+            "accountBalanceType": "CURRENT_BALANCE",
+            "accountBalanceDate": "07/10/2023"
+        }
+    ],
+    "accountDescription": "minha conta"
+}
